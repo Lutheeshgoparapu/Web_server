@@ -19,5 +19,22 @@ Serving the HTML pages.
 
 Testing the webserver
 ## PROGRAM:
+```
+<!DOCTYPE html>
+<html>
+<head>
+<title>My webserver</title>
+</head>
+<body>
+<h1>Name:G.lutheesh</h1>
+<h2>21005043</h2>
+<h2>Artifical Intelligence And Data Science</h2>
+</body>
+</html>
+```
+
+
 ## OUTPUT:
+![output](luthe(30).png)
 ## RESULT:
+web repository created succesfully
